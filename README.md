@@ -31,7 +31,7 @@
 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="52px" src="https://cdn.discordapp.com/attachments/852902611824410634/915241693748547604/unknown.png"></a>
 
-<br><br><br>
+
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="42px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011318156133937254/unknown.png"></a>
 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="42px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011321617995006063/unknown.png"></a>
