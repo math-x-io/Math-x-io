@@ -21,9 +21,7 @@
 <hr>
 
 ### 🔨 Languages and Tools:
-<br>
 
- 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="html" height ="44px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011335544371949679/unknown.png"></a> 
 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="css" height ="44px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011335717877731338/unknown.png"></a> 
