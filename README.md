@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+im+Math-x)](https://git.io/typing-svg)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+im+Math-x+Cybersecurity)](https://git.io/typing-svg)
 
 <img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/416885013175336962/1011308891717513276/3000.png" width="360px"/>
   
@@ -22,9 +22,9 @@
 
 ### 🔨 Languages and Tools:
 
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="html" height ="44px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011335544371949679/unknown.png"></a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="html" height ="42px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011335544371949679/unknown.png"></a> 
 
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="css" height ="44px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011335717877731338/unknown.png"></a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="css" height ="42px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011335717877731338/unknown.png"></a> 
  
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="c++" height ="42px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011321182764662834/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2e16ef78.280689641523244078094.png"></a> 
       
