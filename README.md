@@ -24,7 +24,9 @@
 <br>
 
  
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="html_css" height ="40px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011319303838122074/unknown.png"></a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="html" height ="44px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011335544371949679/unknown.png"></a> 
+
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="css" height ="44px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011335717877731338/unknown.png"></a> 
  
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="c++" height ="42px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011321182764662834/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2e16ef78.280689641523244078094.png"></a> 
       
