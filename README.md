@@ -24,27 +24,27 @@
 <br>
 
  
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="html_css" height ="50px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011319303838122074/unknown.png"></a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="html_css" height ="40px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011319303838122074/unknown.png"></a> 
  
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="c++" height ="52px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011321182764662834/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2e16ef78.280689641523244078094.png"></a> 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="c++" height ="42px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011321182764662834/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2e16ef78.280689641523244078094.png"></a> 
       
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="52px" src="https://cdn.discordapp.com/attachments/852902611824410634/915243410414272572/PikPng.com_python-logo-png_2301371.png"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="42px" src="https://cdn.discordapp.com/attachments/852902611824410634/915243410414272572/PikPng.com_python-logo-png_2301371.png"></a>
 
 
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="52px" src="https://cdn.discordapp.com/attachments/852902611824410634/915241693748547604/unknown.png"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="42px" src="https://cdn.discordapp.com/attachments/852902611824410634/915241693748547604/unknown.png"></a>
 
 
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="52px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011318156133937254/unknown.png"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="42px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011318156133937254/unknown.png"></a>
 
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="52px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011321617995006063/unknown.png"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="42px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011321617995006063/unknown.png"></a>
 
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="52px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011317899476095067/unknown.png"></a>
-
-
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="djs" height ="42px" src="https://cdn.discordapp.com/attachments/416885013175336962/1011317899476095067/unknown.png"></a>
 
 
 
-<br><br>
+
+
+<br><br><br>
 ### ✔️ Main Activity ✔️
 <br>
 <p align=center>
