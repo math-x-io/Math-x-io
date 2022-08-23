@@ -1,6 +1,6 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+im+Math-x+Cybersecurity)](https://git.io/typing-svg)
 
-<img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/416885013175336962/1011308891717513276/3000.png" width="360px"/>
+<img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/416885013175336962/1011308891717513276/3000.png" width="300px"/>
   
 ### 😖 About Me:
 
