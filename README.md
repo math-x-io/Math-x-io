@@ -11,7 +11,7 @@
 - ⚡ &nbsp; Math-x CyberSecurity corp Founder
 - 📫 &nbsp; im working with VS Code and Oracle VM or contact me by [mail](mailto:mrtamarelle@gmail.com?subject=[Contact])
 - 🏆 &nbsp; my main goal is to become a Pentester.
-- 👨🏻‍💻 &nbsp; all of my project are on github [Github](https://github.com/Math-x-io?tab=repositories)
+- 👨🏻‍💻 &nbsp; all of my project are on [Github](https://github.com/Math-x-io?tab=repositories)
 - 💬 &nbsp; i teach basic CyberSecurity stuff
 
 
