@@ -3,9 +3,9 @@
 
 <img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/416885013175336962/1011308891717513276/3000.png" width="300px"/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=charlesadrien24&count_private=true&theme=tokyonight&show_icons=true) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Math-x-io&count_private=true&theme=tokyonight&show_icons=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesadrien24&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Math-x-io&layout=compact&theme=tokyonight)
 
 ### 😖 About Me:
 
