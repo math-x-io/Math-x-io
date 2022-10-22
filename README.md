@@ -55,8 +55,7 @@
    </div>
 
  
- 🐱‍💻 TryHackMe ! 🐱‍💻 <a href="https://tryhackme.com/p/0nizuk4"> <img src="https://cdn.discordapp.com/attachments/416885013175336962/1011314263979196576/THMlogo-gray_scale.png" height ="42px"></a>
- 
+ 🐱‍💻 TryHackMe ! 🐱‍💻 <script src="https://tryhackme.com/badge/1124883"></script>
 
 </p>
 
