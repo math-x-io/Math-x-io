@@ -53,11 +53,11 @@
 <p align=center>
   <div align=center>
    </div>
+</p>
 
  
- 🐱‍💻 TryHackMe ! 🐱‍💻 <script src="https://tryhackme.com/badge/1124883"></script>
+<script src="https://tryhackme.com/badge/1124883"></script>
 
-</p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Math-x-io&count_private=true&theme=tokyonight&show_icons=true)
 
