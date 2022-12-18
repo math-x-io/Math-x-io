@@ -54,7 +54,6 @@
    </div>
 </p>
 
- <script src="https://tryhackme.com/badge/1124883"></script>
 <img src="https://tryhackme-badges.s3.amazonaws.com/0nizuk4.png" alt="TryHackMe">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Math-x-io&count_private=true&theme=tokyonight&show_icons=true)
