@@ -1,7 +1,6 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=800CF7&width=435&lines=>_+Hi+im+Math-x+Cybersecurity)](https://git.io/typing-svg)
 
-<img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/416885013175336962/1011308891717513276/3000.png" width="230px"/>
 
 
 
