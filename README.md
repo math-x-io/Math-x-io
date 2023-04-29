@@ -18,7 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=math-x-io&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=math-x-io&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 # 💻 My TryHackMe account :
-<img src="https://tryhackme-badges.s3.amazonaws.com/0nizuk4.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/0nizuk4.png" alt="TryHackMe"> 
 
 ### ✍️ My Favorite Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight&quote=Privacy+is+the+source+of+all+other+rights&author=Edward+Snowden
