@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=800CF7&width=435&lines=>_+Hi+im+Math-x+,+I+love+Cybersecurity)](https://git.io/typing-svg)
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 <br>
 
