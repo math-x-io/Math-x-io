@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=800CF7&width=435&lines=>_+Hi+im+Math-x+Cybersecurity)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e3/27/66/e32766eb836835e8880a05de4beb2722.gif" alt="Lady from Devil May Cry <3"/>
 </p>
 <br>
 
