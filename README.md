@@ -1,5 +1,5 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=800CF7&width=435&lines=>_+Hi+im+Math-x+,+I+love+Cybersecurity)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=800CF7&width=435&lines=>_+Hi+im+Math-x+,+I+love+Cybersecurity)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
@@ -29,9 +29,9 @@
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 
 <p align="center">
-  <img src="https://math-x-io.github.io/MEDIA/final_demo5.gif">
+  <img src="https://math-x-io.github.io/MEDIA/final_demo5.gif" alt="Alt Text">
 </p>
-<br>
+
 
 # 💻 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=math-x-io&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
