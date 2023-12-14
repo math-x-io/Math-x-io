@@ -28,6 +28,11 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 
+<p align="center">
+  <img src="https://math-x-io.github.io/MEDIA/final_demo5.gif">
+</p>
+<br>
+
 # 💻 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=math-x-io&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=math-x-io&theme=tokyonight&hide_border=false)<br/>
