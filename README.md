@@ -96,8 +96,9 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/math-x-io/math-x-io/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/math-x-io/Math-x-io/main/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
