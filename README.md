@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://orig00.deviantart.net/f35f/f/2016/020/0/e/daft_punk_ascii_2nd_try_by_junguler-d9onl4n.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/HouEItJq5tUAAAAM/sleepy.gif"  />
 
 ###
 
