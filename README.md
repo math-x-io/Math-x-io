@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/217/217587.gif"  />
+<img align="right" height="150" src="https://preview.redd.it/happy-birthday-to-futaba-sakura-a-k-a-oracle-v0-x8nax8ngjui81.gif?width=200&auto=webp&s=4bd0dea593f7eca8653045f5c39a3346e0f8c855"  />
 
 ###
 
@@ -118,9 +118,15 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/0nizuk4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=1c2538&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://rootme.org/0nizuk4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Rootme&logo=rootme&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  </a>
+  <a href="https://app.hackthebox.com/users/1197330" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=1a2332&logoColor=9fef00&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
 
 ###
