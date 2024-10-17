@@ -132,7 +132,7 @@
 ###
 
 <div align="center">
-<img src="https://cdn.pfps.gg/banners/3373-guts-v-s-griffith.gif" alt="Read Berserk" />
+<img src="https://i.imgur.com/zCB7IJn.gif" alt="Read Berserk" />
 </div>
 
 ###
