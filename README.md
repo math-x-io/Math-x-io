@@ -130,8 +130,9 @@
 </div>
 
 ###
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/math-x-io/Math-x-io/main/output/snake.svg" alt="Snake animation" />
+<img src="https://cdn.pfps.gg/banners/3373-guts-v-s-griffith.gif" alt="Read Berserk" />
 </div>
 
 ###
