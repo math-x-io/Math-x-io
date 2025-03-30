@@ -126,7 +126,9 @@
   <a href="https://app.hackthebox.com/users/1197330" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=1a2332&logoColor=9fef00&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
+  <a href="https://x.com/MathX401" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
