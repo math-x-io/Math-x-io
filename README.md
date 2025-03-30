@@ -1,5 +1,5 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=800CF7&width=435&lines=>_+Hi+I'm+Math-X+,+welcome+to+my+Github)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=800CF7&width=435&lines=Hi+I'm+Math-X+,+welcome+to+my+README)
 <h3 align="center">👾 I'm a CS student who loves cybersecurity and DevSecOps development</h3>
 
 ###
