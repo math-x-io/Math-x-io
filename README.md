@@ -120,7 +120,7 @@
   <a href="https://tryhackme.com/p/0nizuk4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=1c2538&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
-  <a href="https://rootme.org/0nizuk4" target="_blank">
+  <a href="https://root-me.org/0nizuk4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Rootme&logo=rootme&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
   <a href="https://app.hackthebox.com/users/1197330" target="_blank">
