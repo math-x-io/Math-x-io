@@ -1,10 +1,16 @@
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1cd171a3-b015-4872-9f55-5c67b074a8e1" /><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3ef285dc-cc49-4fd6-9024-c71519596696" />ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=800CF7&width=435&lines=Hi+I'm+Math-X+,+welcome+to+my+README)
-<h3 align="center">👾 I'm a CS Engineering student who loves cybersecurity, mainly focused on the offensive subjects. </h3>
+<h3 align="center">👾 RedTeam Engineer & Bug Hunter, I'm mainly focused on the offensive security subjects.</h3>
+
+  My favorites subjects is :
+  - Web Security 🌐
+  - Mobile Security 📱
+  - IOT/Hardware Security 📡
+  - Exploit Developement ⚙️
 
 ###
 
-<img align="right" height="150" src="https://preview.redd.it/happy-birthday-to-futaba-sakura-a-k-a-oracle-v0-x8nax8ngjui81.gif?width=200&auto=webp&s=4bd0dea593f7eca8653045f5c39a3346e0f8c855"/>
+<img align="right" height="150" src="https://preview.redd.it/happy-birthday-to-futaba-sakura-a-k-a-oracle-v0-x8nax8ngjui81.gif?width=200"/>
 
 ###
 
@@ -29,9 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="30" alt="debian logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
@@ -51,8 +54,9 @@
  </div>
 
 ###
-
+<div align="center">
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=math-x)
+</div>
 
 <div align="center">
   </a>
@@ -79,4 +83,5 @@
 </div>
 
 ###
+
 
