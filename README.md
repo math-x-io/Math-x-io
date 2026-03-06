@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://preview.redd.it/happy-birthday-to-futaba-sakura-a-k-a-oracle-v0-x8nax8ngjui81.gif?width=200"/>
+<img align="right" height="150" src="https://preview.redd.it/happy-birthday-to-futaba-sakura-a-k-a-oracle-v0-x8nax8ngjui81.gif"/>
 
 ###
 
@@ -63,8 +63,8 @@
   <a href="https://app.hackthebox.com/users/1197330" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=1a2332&logoColor=9fef00&labelColor=&style=for-the-badge" height="35" alt="htb logo"  />
   </a>
-  <a href="https://x.com/MathX401" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=CTFD&logo=ctfd&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://ctftime.org/team/246488" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=CTFTime&logo=CTFTime&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
@@ -83,6 +83,7 @@
 </div>
 
 ###
+
 
 
 
