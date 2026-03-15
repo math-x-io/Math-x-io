@@ -8,6 +8,9 @@
   - IOT/Hardware Security 📡
   - Exploit Developement ⚙️
 
+ <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Math-X">
+
+
 ###
 
 <img align="right" height="150" src="https://preview.redd.it/happy-birthday-to-futaba-sakura-a-k-a-oracle-v0-x8nax8ngjui81.gif"/>
