@@ -55,7 +55,7 @@
 
 ###
 <div align="center">
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=math-x)
+[![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=math-x)](https://root-me-diff.vercel.app/rm-gh?nickname=math-x)
 </div>
 
 <div align="center">
