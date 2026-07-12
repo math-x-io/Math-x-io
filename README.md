@@ -54,10 +54,6 @@
 
 ###
 <div align="center">
- <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Math-X">
-</div>
-
-<div align="center">
   </a>
   <a href="https://app.hackthebox.com/users/1197330" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=1a2332&logoColor=9fef00&labelColor=&style=for-the-badge" height="35" alt="htb logo"  />
