@@ -66,7 +66,8 @@
 ###
 
 <div align="center">
-<img src="https://i.imgur.com/zCB7IJn.gif" alt="Read Berserk" />
+<img src="https://aniyuki.com/wp-content/uploads/2025/03/aniyuki-Cyberpunk-Edgerunners-gif-18.gif" alt="Read Berserk" />
+  
 </div>
 
 ###
