@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=800CF7&width=435&lines=Hi+I'm+Math-X+,+welcome+to+my+README)
 <h3 align="center">👾 RedTeam Engineer & Bug Hunter, I'm mainly focused on the offensive security subjects.</h3>
 
-  My favorites subjects is :
+  My favorites subjects :
   - Web Security 🌐
   - Mobile Security 📱
   - IOT/Hardware Security 📡
